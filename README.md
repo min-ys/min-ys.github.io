@@ -1,9 +1,5 @@
 # min-ys.github.io
-sashsaggasshhda
-<meta name="description" content="Kun Kuang&#39;s home page">
-<link rel="stylesheet" href="jemdoc.css" type="text/css">
-<link rel="shortcut icon" href="zju.png">
-<title>Kun Kuang's Homepage @ Zhejiang University</title>
+
 
 <body> 
 <div id="layout-content" style="margin-top:25px">
